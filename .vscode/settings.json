@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "stdio.h": "c",
+        "socket.h": "c",
+        "__bit_reference": "c",
+        "algorithm": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "unordered_map": "c"
+    }
+}
